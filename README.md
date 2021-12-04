@@ -1,5 +1,6 @@
 # rightclicker
 This simple script automatically downloads entire NFT collections from OpenSea. Now you can collect JPEGs without burning the planet down!
+
 ![](you_wouldnt_right_click_a_nft.png)
 
 ## Usage
